@@ -1,0 +1,19 @@
+{
+  "name": "bdev_qb",
+  "version": "1.0.0",
+  "description": "Quick Backend test for baires dev",
+  "main": "quick_backend.js",
+  "scripts": {
+      "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaArantes/bdev_qb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaArantes/bdev_qb/issues"
+  },
+  "homepage": "https://github.com/RafaArantes/bdev_qb#readme"
+}
